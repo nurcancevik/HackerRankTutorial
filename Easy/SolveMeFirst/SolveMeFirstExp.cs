@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HackerRankTutorial
+namespace HackerRankTutorial.Easy
 {
     public class SolveMeFirstExp
     {
