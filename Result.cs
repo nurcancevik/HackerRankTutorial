@@ -1,4 +1,5 @@
 ﻿using HackerRankTutorial.Easy;
+using HackerRankTutorial.Medium;
 
 namespace HackerRankTutorial
 {
@@ -15,7 +16,9 @@ namespace HackerRankTutorial
             //StaircaseExp.Result();
             //Mini_MaxSum.Result();
             //BirthdayCakeCandlesExp.Result();
-            TimeConversionExp.Result();
+            //TimeConversionExp.Result();
+            //ExtraLongFactorialsExp.Result();
+            GradingStudentsExp.Result();
 
         }
     }
