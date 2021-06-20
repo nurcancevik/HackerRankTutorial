@@ -14,7 +14,8 @@ namespace HackerRankTutorial
             //PlusMinusExp.Result();
             //StaircaseExp.Result();
             //Mini_MaxSum.Result();
-            BirthdayCakeCandlesExp.Result();
+            //BirthdayCakeCandlesExp.Result();
+            TimeConversionExp.Result();
 
         }
     }
